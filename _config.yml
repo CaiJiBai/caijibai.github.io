@@ -4,8 +4,8 @@ email: langisme@qq.com
 description: > # this means to ignore newlines until "baseurl:"
   JUST A DEMO
 baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "https://caijibai.github.io" # the base hostname & protocol for your site
-url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+url: "https://caijibai.github.io" # the base hostname & protocol for your site
+#url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
 #twitter_username: username
 github_username: caijibai
 
